@@ -4,16 +4,44 @@ data/data.xlsx
 ```
 ![原始数据](readme/data.png)
 
-项目任务：将手术名称分类归为多个标签
+项目任务：将手术名称分类归为多个麻醉方式标签
 
-# 数据处理
+# 数据预处理
 ```
 python preprocess.py data/data.xlsx
 ```
+模型输入为:
+
+训练集
+
+data/train_set.json
+```
+{"doc_label": ["6", "15", "3"], "doc_token": ["肝外", "胆管", "损伤", "及", "狭窄", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["侧", "鼻", "切开", "肿瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸壁", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["踝关节", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["输卵管", "造口术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["食管", "胃侧", "侧", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["回肠", "双口", "式造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["吻合", "血管", "腓骨", "皮瓣", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["4", "7", "8", "5", "0"], "doc_token": ["上颌", "窦", "根治术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["升", "主动脉", "冠状动脉", "大隐", "静脉", "旁路", "移植术"], "doc_keyword": [], "doc_topic": []}
+...
+```
+验证集
+```
+data/validate_set.json
+```
+测试集
+```
+data/test.json
+```
+
 # 参数设置
 ```
 conf/train.json
-
+```
+```
 ...
 "label_type": "multi_label",
 ...
@@ -27,6 +55,19 @@ conf/train.json
 # 模型训练
 ```
 python train.py conf/train.json
+```
+测试结果
+```
+Best test performance at epoch 10 is precision: 0.565574, recall: 0.295503, fscore: 0.388186, macro-fscore: 0.217513
+```
+# 模型预测
+
+data/predict.json
+```
+{"doc_label": ["11", "12", "3", "9", "14"], "doc_token": ["肋骨", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+```
+```
+python predict.py conf/train.json data/predict.json
 ```
 
 ![NeuralClassifier Logo](readme/logo.png)

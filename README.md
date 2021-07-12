@@ -1,3 +1,9 @@
+# Usage
+```
+python .py
+```
+
+
 ![NeuralClassifier Logo](readme/logo.png)
 
 

@@ -1,0 +1,702 @@
+{"doc_label": ["6", "15", "3"], "doc_token": ["肝外", "胆管", "损伤", "及", "狭窄", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["侧", "鼻", "切开", "肿瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸壁", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["踝关节", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["输卵管", "造口术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["食管", "胃侧", "侧", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["回肠", "双口", "式造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["吻合", "血管", "腓骨", "皮瓣", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["4", "7", "8", "5", "0"], "doc_token": ["上颌", "窦", "根治术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["升", "主动脉", "冠状动脉", "大隐", "静脉", "旁路", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["门脉", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["腹部", "皮瓣", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["食管", "腔", "内置", "管术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["眶", "底", "骨折", "修复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["硬脊", "膜", "外", "脓肿", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3"], "doc_token": ["髓腔", "内骨", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["体外循环"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻咽", "切片"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "9", "0"], "doc_token": ["股", "疝", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["扩大", "左肝叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["喉咽", "瘘口", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["内痔", "结扎"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["髂", "股", "静脉", "血栓", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肺动脉瓣", "气球", "扩张", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腰椎", "界面", "内", "固定"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3", "0"], "doc_token": ["腓骨", "长", "肌腱", "转移", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["水平", "肌", "肌腱", "垂直", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["喉", "疤痕", "性", "狭窄", "整复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["后侧", "显露", "病灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["食管", "憩室", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["肺", "楔形", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "8", "15", "0"], "doc_token": ["蝶窦", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["胰头", "十二指肠", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["臀助娩术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["倾倒", "综合征", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["掌腱", "膜", "挛缩", "症掌腱", "膜", "切除", "皮肤", "Z", "字", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["甲下", "血管", "球瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["虹膜", "粘连", "分离", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["颈动脉", "体瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["血管", "套叠", "缝", "合法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["甲状腺", "次全", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["膝关节", "结核病", "灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3", "0"], "doc_token": ["伸足", "母长", "肌腱", "转移", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["电视", "胸腔镜", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["骨", "胳外", "固定器", "装置", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["翼状", "胬肉", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["阴道", "前壁", "膨出", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["拇指", "IV", "度", "缺损", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "7", "1", "15", "3", "12"], "doc_token": ["肾盂", "输尿管", "连接", "部", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["前侧", "显露", "病灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["糖尿病", "性", "视网膜", "病变", "玻璃体", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["磨皮术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["关节镜", "探查", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["盲肠", "造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胆总管", "空肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "15", "0"], "doc_token": ["恶性", "肿物", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["远端", "桡尺", "关节", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "7", "1", "15", "3", "12"], "doc_token": ["肾", "切开", "取石术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["掌", "骨干", "骨折", "切开", "复位", "克氏", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "12"], "doc_token": ["心包", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["腹腔镜", "次全", "子宫", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["腹腔镜", "全", "子宫", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["横", "突间", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["胃泌素", "瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["隆突", "切除", "重建术", "及", "支气管", "袖式", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肝", "区域", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["髋臼", "骨折", "开放性", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["神经", "外膜", "束膜", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["肠粘连", "松解术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["腹式", "广泛", "全宫", "全", "阴道", "全", "尿道", "膀胱", "切除术", "加", "回肠", "代", "膀胱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["神经", "外膜", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["第一", "掌骨", "基", "底部", "骨折", "脱位", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3"], "doc_token": ["前", "尿道", "延伸", "阴茎", "伸直", "位", "固定", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["经", "肛门", "息肉", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["腋臭", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["鼻腔", "乳头状", "瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["全", "胃切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["电凝术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "5", "0"], "doc_token": ["手掌", "皮肤", "缺损", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["外", "眦", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["右中", "肺叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["囊内", "白内障", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["肝", "海绵状", "血管瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["第二", "掌骨", "动脉", "蒂", "皮瓣", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "7", "1", "15", "3", "12"], "doc_token": ["肾盂", "造瘘", "术", "肾造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["前额", "窦", "开窗", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["桡骨", "头", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["喉", "疤痕", "性", "狭窄", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["跟腱", "切断", "延长", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["高血压", "脑出血", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["ROUXENY", "总肝", "管肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "5", "3", "0"], "doc_token": ["盆腔", "腹膜", "阴道", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["经", "腹腔", "肝", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["有机玻璃", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["Luque", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["右", "下", "肺叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["内痔", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["人工", "股骨头", "置换术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹壁", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3"], "doc_token": ["嵌入", "骨", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["三角形", "子宫", "次全", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["健侧", "颈", "7", "神经", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["椎管", "内", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["腹部", "管状", "皮瓣", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["阴茎", "全", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "13", "3", "0"], "doc_token": ["大鱼际", "间隙", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["鼻中隔", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "15", "0"], "doc_token": ["腭裂", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肝", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["右", "上", "肺叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["小儿", "断指", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "5", "15", "3", "0"], "doc_token": ["皮片", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["脊髓", "内", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肺动脉", "栓塞", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["皮下", "瘘管", "切开术", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["足踝", "韧带", "重建", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻", "泪管", "义管", "植入", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["盆腔", "粘连", "分离", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["部分", "性", "房室", "隔", "缺损", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["钢针", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["肌腱", "移位", "术", "重建", "伸", "拇", "功能"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["手指套", "状", "撕", "离断", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["高位", "隐睾", "下降", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["13"], "doc_token": ["肺动脉", "结扎"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["自体", "静脉", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["左肝内", "胆管", "胆总管", "空肠", "侧侧", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["泪囊", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻", "骨折", "开放性", "复位"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["上颌骨", "次", "全截", "除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸骨", "裂缝", "合", "与", "修复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["鸡胸", "矫形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["淋巴结", "清扫", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "13", "3", "0"], "doc_token": ["化脓性", "滑囊", "炎", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["臀位", "牵引", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["自体", "脾", "再植"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["转子", "间切", "骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["断肢", "指", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["直肌", "联结", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3"], "doc_token": ["膝", "外翻", "切骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["眉毛", "骨膜", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["内生", "软骨", "瘤", "刮", "除", "植骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸", "导管", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["瘢痕", "性睑", "外", "翻修", "复术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹腔镜", "保脾术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["胸部手术", "切口", "之后", "外侧", "切口"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["转子", "下切", "骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫颈", "锥形", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["全喉", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["股", "骨干", "骨折", "切开", "复位", "内因", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["再造", "三指", "手术", "方法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["晚期", "妊娠", "子宫", "破裂", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["膑", "骨", "韧带", "断裂", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["下斜", "肌", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["皮条", "埋藏", "尿道", "成形术", "denisbrown"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["水平式", "喉部", "份", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["游离", "骨", "胳", "肌肉", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["肝右", "三叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["胆总管", "切开", "探查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["眦", "角", "移位", "Z", "形成", "形", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["股骨", "转子", "下", "旋转", "切骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "5", "0"], "doc_token": ["深", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["股骨头", "坏死", "钻洞", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["肱骨", "髁", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "0"], "doc_token": ["尺骨", "远侧", "部分", "截除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["左", "心房", "粘液", "瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["4", "7", "1", "6", "15", "3", "0"], "doc_token": ["小肠", "切除", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["气管", "食管", "分路", "放", "发音", "管术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["人工", "全", "髋关节", "置换术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["眼球", "后部", "磁性", "异物", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["瘢痕", "支持", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["Z", "字", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "15", "12"], "doc_token": ["室间隔", "缺损", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["套入", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "5", "3", "0"], "doc_token": ["经", "会阴", "肛门", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3"], "doc_token": ["钢板", "螺钉", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["颈部", "淋巴结", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["直肠", "狭窄", "整形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["腮腺", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腰椎间盘", "突出", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["扩大", "性", "胸膜", "肺", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫腔", "纱布", "条", "填塞", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["静脉", "血管瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["卵巢", "肿物", "剔除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["声带", "上", "部份", "喉", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["双叶", "移位", "皮瓣", "鼻", "背部", "缺损", "整复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["结膜", "囊", "鼻腔", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["古典式", "剖宫产", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "5", "15", "3", "0"], "doc_token": ["管状", "皮瓣", "皮管", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "13", "3", "0"], "doc_token": ["掌中", "间隙", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["尺骨", "远段", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["术", "中", "胆道", "造影"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["下睑", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["卵巢", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胆管", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["冷冻", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["可控性", "回肠", "膀胱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["上", "斜", "肌断", "腱术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "15"], "doc_token": ["椎板", "切除", "及", "椎管", "扩大", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["胰体", "尾部", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["前臂骨", "间", "掌侧", "神经", "卡压", "综合征", "松解术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "0"], "doc_token": ["舌", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫颈", "冷冻", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["脾", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["胃", "十二指肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["经脐", "静脉", "门静脉", "插管", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["声带", "内", "Teflon", "注射"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["断指", "异位", "再植", "类型"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["环状软骨", "舌骨", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心室", "心肌", "切开", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胆总管", "十二指肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["食管", "扩张", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3", "0"], "doc_token": ["鼓式", "取皮", "机取", "皮术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胰脏", "体", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["甲状", "舌骨", "囊肿", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["小腿", "截体术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["岛状", "根带", "蒂", "皮瓣", "移植"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["无", "创性", "正压", "机械", "通气"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["子宫", "肌瘤", "剔除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0", "11"], "doc_token": ["鼻中隔", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["会阴", "切开", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["单纯", "外阴", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["回肠", "膀胱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["幽门", "括约肌", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心", "内", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["上臂", "截肢", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["血液", "透析", "动静脉", "分流", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["肾", "母细胞", "瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["急性", "骨髓炎", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["肾蒂", "淋巴管", "结扎", "肾蒂", "淋巴管", "精索", "内", "卵巢", "静脉", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["广泛", "全宫", "加全", "阴道", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["气管", "插管", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["人工", "剥膜术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肛门", "括约肌", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["半", "开门", "式", "椎管", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["纤维", "十二指肠", "镜检查", "逆行", "性", "胰胆管", "造影术", "ERCP", "及经", "内窥镜", "括约肌", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "0"], "doc_token": ["胸锁", "乳突", "肌", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["歪斜", "指趾", "畸形", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["支气管", "内", "扩张", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["卵巢", "楔切术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["左半", "结肠", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["胸膜", "内", "胸廓", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["羟基", "磷灰石", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["下腹部", "皮瓣", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["断头", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["清宫", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "8", "0"], "doc_token": ["眼前", "节", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["右半", "肝", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心房", "肺动脉", "回路", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["骨髓移植"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["膀胱", "镜检查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["腰骶段", "脊椎", "结核病", "灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["泪小管", "泪囊", "鼻腔", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["左", "冠状动脉", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["眼窝", "内", "硅胶", "球", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["十二指肠", "乳头", "括约肌", "成形术", "经", "十二指肠"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胰瘘", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15"], "doc_token": ["未闭", "动脉", "导管", "结扎术", "切断", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["盆部", "输尿管", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["胆囊", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["胃癌", "根治术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肢体", "断面", "结构"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["眼睑", "前层", "缺损", "修复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["肘关节", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["肺", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["锁骨", "上", "神经", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["食管", "穿孔", "与", "破裂", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["尺骨", "鹰嘴", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["尸体", "捐肝", "摘取"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["动静脉", "瘘", "切除", "动脉", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["带瓣", "静脉", "段", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸廓", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["胰", "假性", "囊肿", "切除", "内", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["内", "外痔", "完全", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["钳", "刮术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["部份", "乳房", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["经", "T", "形管", "窦道", "纤维", "胆道", "镜检查", "术后", "胆道", "镜检查", "POC"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3", "0"], "doc_token": ["尺动脉", "皮", "支蒂", "皮瓣", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["心脏", "穿透", "伤", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心室", "动脉瘤", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["经腹", "会阴", "肛门", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["全部", "部份", "鼻甲", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["食管", "下段", "癌及", "贲门癌", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["切肝取", "石术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["脾", "缝合", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["指伸", "肌腱", "缝合", "术", "I", "区"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["指深屈", "肌腱", "移植术", "II", "区", "异体", "肌腱", "移植"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肝", "囊肿", "肝脓疡", "引流", "造袋术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹壁", "损伤", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["9", "15"], "doc_token": ["子宫", "及", "双", "附件", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["无痛", "人流"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["股骨", "下", "段", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["乳癌", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["耻骨", "上经", "膀胱", "前列腺", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["全副", "鼻窦", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["肾", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15"], "doc_token": ["胸壁", "结核病", "灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["真皮", "脂肪", "瓣", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["血管", "剪开", "套叠", "缝", "合法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["肛裂", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["掌浅", "弓", "为", "蒂", "小", "鱼际", "皮瓣", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15"], "doc_token": ["直肠", "前壁", "折叠", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["上臂", "离断", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肠腔", "静脉", "分流", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["13", "0"], "doc_token": ["乳房", "良性肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["筛", "动脉", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["血液", "透析", "用", "之", "血管", "插管"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15", "3", "0"], "doc_token": ["脊柱", "骨折", "脱位", "合并", "截瘫", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["胆囊", "空肠", "Y", "形", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["近节", "指骨", "骨折", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胆囊", "空肠", "肠", "袢", "型", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["眉", "下垂", "后", "固定", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["口腔", "上颌", "窦", "瘘管", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["膝关节", "加压", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["前臂", "逆行", "岛状", "皮瓣", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["四联", "症", "根治术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["穿", "颅术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["鼻中隔", "穿孔", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["左", "上", "肺叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["肩关节", "离断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15"], "doc_token": ["睾丸", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["腹式", "广泛", "全宫", "膀胱", "切除术", "加", "回肠", "代", "膀胱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["立体", "定向", "吸引", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["巨大", "宫颈", "瘤", "子宫", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["鼻咽", "闭锁", "整复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肛门", "瘘", "切除", "切开术", "并", "痔疮", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["足", "三", "关节", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["肠套叠", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["传统", "疝气", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸膜", "外", "胸廓", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["椎管", "脊髓", "探查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "5", "3", "0"], "doc_token": ["阑尾", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["9", "0"], "doc_token": ["膈", "下", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["闭合", "灌洗", "负压", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["海绵状", "血管瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0", "11"], "doc_token": ["经", "上颌", "窦颌内", "动脉", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["肠", "折叠", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["胸部手术", "切口", "之前", "外侧", "切口"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["食管", "抗反", "流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["简单", "肛瘘", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["前后", "鼻孔", "堵塞", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["软组织", "良性肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["全腔", "静脉", "与", "肺动脉", "连接", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["额窦", "脓肿", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["髋关节", "脱位", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["闭合式", "玻璃体", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["掌", "侧板", "关节", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["桡骨", "颈部", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肿瘤", "细胞", "减灭术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["经股部", "途径", "腹", "主动脉", "分叉", "处", "血栓", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["左侧", "全肺", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3"], "doc_token": ["胃底", "横断", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["缝肝术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["胃次", "全", "切除", "胃", "十二指肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["眼睑", "中央", "部", "楔形", "睑板", "移行", "瓣术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["半", "骨盆", "截肢", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["手转", "胎头术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["Mclaughlin", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["经皮", "肾镜", "碎石"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "5"], "doc_token": ["手指", "皮肤", "缺损", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["上颌骨", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["桡", "尺骨", "骨干", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫颈", "电熨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["额肌", "悬吊", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹式", "次", "全", "子宫", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["一般", "腹股沟", "斜", "疝", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3"], "doc_token": ["钢丝", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["食管", "平滑肌", "瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["腰椎", "滑脱", "复位", "内", "固定", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["羟基", "磷灰石", "球", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["提肛", "肌", "折迭", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["手指", "解剖", "特点"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["直肠", "膀胱", "瘘管", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["前额", "窦骨", "成形术", "及", "脂肪", "填塞"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["输尿管", "切开", "取石术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["泪腺", "脱垂", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸腔", "排气", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["经", "尿道", "膀胱", "活", "组织", "检查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["拇指", "基", "关节", "置换术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["经", "静脉", "修复", "动脉", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肘关节", "脱位", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["四肢", "骨折", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["眦", "角", "移位", "回转", "矫正术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["无血", "肝", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["输尿管", "口", "切开", "取石术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["垂直", "式", "侧方", "前方", "喉部", "份", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["吸刮术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["输卵管", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["推进", "性", "皮瓣", "鼻", "背部", "缺损", "整复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["胃次", "全", "切除", "结肠", "后", "胃", "空肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胆总管", "十二指肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "0"], "doc_token": ["半舌", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["气管", "永久", "造孔术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["肝活", "组织", "检查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["复发", "性溃疡", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹壁", "脓疡", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3", "0"], "doc_token": ["管式", "胃造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["睑", "板腺", "囊肿", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["皮脂腺", "囊肿", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["阴道", "横隔", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["上颌骨", "部分", "截除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["唇腭裂", "术后", "上唇", "及", "鼻孔", "鼻端", "畸形", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["鼻咽", "部活", "组织", "检查", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "5", "15", "0"], "doc_token": ["毛细血管", "瘤", "海绵状", "血管瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["肱骨", "髁", "上", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["先天性", "肠", "闭锁", "肠", "狭窄", "一期", "切除", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6"], "doc_token": ["脾脏", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["阴茎", "背侧", "皮管", "尿道", "成形", "法", "broadbent"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["血管", "移位", "移植", "缝", "合法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["脾", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["经胸", "食管", "下段", "胃底", "曲张", "静脉", "缝扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["双口", "式", "肠", "瘘", "闭合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["喉咽", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["高度", "选择性", "胃", "迷走神经", "干", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肾盂", "切开", "探查", "引流", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["中节", "指骨", "骨折", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["乳房", "缩小", "整形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["上颌骨", "全截", "除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["激光", "心肌", "血管", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["髂", "臼", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["端侧", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫腔", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["脑室", "腹腔", "分流", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14"], "doc_token": ["肺脏", "移", "稙"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["踝", "后", "关节", "囊", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["间置", "空肠", "胆管", "十二指肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["胆总管", "十二指肠", "端侧", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15"], "doc_token": ["手部", "VY", "型", "皮瓣", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["腹膜", "透析", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["限制性", "门腔", "静脉", "侧侧", "分流", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["经胸", "结核病", "灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["压迫", "止血", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["肝", "损伤", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["自体", "肋软骨", "球", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["动脉", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["先天性", "胆总管", "囊肿", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["闭式", "二尖瓣", "交界", "分离", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["锁骨", "下", "动脉", "垂片", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3", "0"], "doc_token": ["游离", "腹股沟", "皮瓣", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心内膜", "垫", "缺陷", "之", "修补", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["血管", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["二尖瓣", "置换术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["马尾", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["半喉", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["气管", "环形", "切除", "对端", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心", "室间隔", "穿破", "缝补", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["根除", "性", "腹股沟", "淋巴", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["外伤性", "动静脉", "瘘", "闭塞性", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["碟形", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["房水", "引流", "装置", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["桡骨", "茎", "突", "狭窄", "性", "腱鞘炎", "松解术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心脏", "缝补", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["拇指", "甲", "皮瓣", "移植", "拇指", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["指屈", "肌腱", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["脊膜瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["前臂", "皮瓣", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["套叠", "肠段", "切除", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "13", "3", "0"], "doc_token": ["乳房", "单纯", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肋间", "神经", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["心房", "内", "改道", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["拇指", "V", "度", "VI", "度", "缺损", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["冠状动脉", "绕道", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["后", "尿道", "损伤", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["眼睑", "后层", "缺损", "修复"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["结膜", "异物", "取出", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肺动脉", "血栓", "内膜", "剥脱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "0"], "doc_token": ["表浅", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["上睑", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["心肺", "联合", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["主动脉", "窦瘤", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["除脏术", "与", "断", "臀术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["屈指", "肌腱", "粘连", "松解术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["泪腺", "分泌", "神经", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["后", "房型", "人工", "晶体", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["密闭式", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["扁桃体", "周围", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肘管", "综合征", "尺", "神经", "前移", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["前", "房", "穿刺术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3"], "doc_token": ["无菌", "肠", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["骨", "盆腔", "脓疡", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["4", "7", "5", "0"], "doc_token": ["泪囊", "鼻腔", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["关节", "部位", "瘢痕", "挛缩", "畸形", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["下", "鼻甲", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["乳癌", "简化", "根治术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["乙状结肠", "膀胱", "扩大", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["单侧", "附件", "广泛", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3", "0"], "doc_token": ["肌腱", "转移", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["9"], "doc_token": ["腹壁", "切口", "疝", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["经", "尾骨", "由", "直肠", "后部", "切开", "行", "直肠癌", "切除", "方法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["髋骨", "旋转", "切骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["脾脏", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3"], "doc_token": ["跖腱", "膜", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["颅颜", "合并", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["踝关节", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["颈椎病", "前路", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["下斜", "肌后", "徙", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸膜", "固定", "黏合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["近节", "断指", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3"], "doc_token": ["髋臼", "加盖", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["人工", "肌键", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["指", "间", "关节", "侧", "副", "韧带", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["腰椎", "管根管", "扩大", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["喉", "裂开", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["髂骨", "切骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["鼻翼", "鼻", "小柱", "缺损", "整复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["右室", "漏斗", "部", "肥厚", "肌束", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["末节", "断指", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "13", "3", "0"], "doc_token": ["化脓性", "腱鞘炎", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["ASD", "修补"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["会阴", "裂伤", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻", "肿瘤", "切除", "并", "植皮"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["远端", "脾肾", "静脉", "分流", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["结肠", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["肩胛", "带", "截肢", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["宫颈", "息肉", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["直肠癌", "腹部", "会阴", "联合", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["内", "倒转", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼠蹊", "疝气", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["儿童", "眼病", "玻璃体", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["经", "尿道", "膀胱", "肿瘤", "电切术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肛门", "乳突", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["激素", "局部", "封闭疗法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["准分子", "激光", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["神经", "束间", "神经", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["肝胆", "管盆式", "胆肠内", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["髋关节", "离断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肝", "动脉", "结扎"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "15", "3", "0"], "doc_token": ["胫前", "肌腱", "转移", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["脊椎", "窦道", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "5", "15", "3", "0"], "doc_token": ["清创术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3", "0"], "doc_token": ["荷包", "式", "胃造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["血管", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["直肠", "肛管", "周围", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胰", "囊肿", "至", "肠胃", "道", "之", "内部", "直接", "引流", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["脂肪瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胰脏", "结石", "去除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["外侧", "半月板", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["大", "网膜", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["超声", "乳化", "白内障", "吸除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["脐带", "脱垂", "处理"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["手指", "V", "度", "缺损", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["回肠", "膀胱", "扩大", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["马蹄形", "切开", "式", "幽门", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["放射状", "角膜", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["食管", "肌层", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["Hartmann", "氏", "直肠", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["腹腔", "内", "异物", "却", "除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["血管", "端端", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["股浅", "静脉", "带", "戒术", "静脉", "瓣膜", "壁环", "缝术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["器械", "固定", "植骨", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["拇指", "lll", "度", "缺损", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["人工", "网膜", "无张", "力性", "疝气", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["轻度", "瘢痕", "性", "眼睑", "外翻", "手术", "治疗"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["多节", "段", "断指", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "5", "15", "3", "0"], "doc_token": ["扁平", "皮瓣", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肛隐窝", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["上", "颔", "窦", "造口术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["吻合", "血管", "桡骨", "骨膜", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["根治性", "直肠", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["经腹", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["吻合", "血管", "腓骨", "切取术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["脐尿管", "瘘管", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["左肝叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["咽侧", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["复合", "组织", "移植", "拇指", "再造术", "串联式", "吻合", "血管"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["支气管", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸腔", "出口", "综合征", "松解术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3", "0"], "doc_token": ["前臂", "截肢", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "1", "6", "15", "3"], "doc_token": ["瘢痕", "挛缩", "畸形", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["鼻", "前庭", "囊肿", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["视网膜", "裂孔", "冷凝", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["周边", "虹膜", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["经", "阴道", "子宫", "肌瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3", "0"], "doc_token": ["耻骨", "上", "膀胱", "造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["肛门", "外", "括约肌", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["手指", "撕", "脱性", "离断", "再植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "7", "1", "15", "3", "12"], "doc_token": ["肾", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["内镜", "鼻咽", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["9", "15", "0"], "doc_token": ["经", "直肠", "盆腔", "脓肿", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心肺", "复苏", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["静脉", "蒂", "动脉", "化", "腓肠", "神经", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["腹股沟", "管状", "骨", "皮瓣", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["经", "直肠镜", "息肉", "电灼", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["经腹", "会阴", "直肠", "肛管", "根治", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["选择性", "脊神经", "后根", "切断术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["左", "下", "肺叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "3", "0"], "doc_token": ["胰", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["14", "15", "12"], "doc_token": ["椎管", "侧壁", "切除", "病灶", "清除", "减压", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["游离", "空肠", "结肠", "移植", "重建", "喉咽术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["阴道", "后", "壁", "膨出", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["髋关节", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["眉上", "部分", "皮肤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["瓣膜", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3", "0"], "doc_token": ["肋骨", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["指屈", "肌腱", "延期", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["食管", "胃", "器械", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "12"], "doc_token": ["胸廓", "内", "动脉", "冠状动脉", "旁路", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["颈", "淋巴结", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["悬", "壅", "颚", "咽", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3"], "doc_token": ["动脉瘤", "动脉", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["外痔", "血栓", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心", "包膜", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["经蝶窦", "脑垂体", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["睑袋", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["掌骨", "骨折", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["经", "骶", "会阴", "肛门", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["子宫", "下", "段", "剖宫产", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["混合", "痔", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["脊髓", "血管", "畸形", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["上下", "睑", "皮肤", "松弛", "切除", "方法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["宫内", "节育器", "放置", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3"], "doc_token": ["末节", "指骨", "基底", "背侧", "骨折", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["输卵管", "腹腔镜", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["异体", "巩膜", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肩", "难产", "助产", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["开放性", "截肢", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["延长", "颈", "段", "食管", "肌层", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "8", "5", "15", "0"], "doc_token": ["鼻外", "筛", "窦", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["大动脉", "调转", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["缩窄", "段", "切除", "端端", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["贲门", "肌层", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["胆管", "空肠", "RouxY", "式", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3"], "doc_token": ["动脉瘤", "内", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3", "0"], "doc_token": ["掌折骨", "骨折", "切开", "复位", "内", "固定术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胰脏", "尾端", "部分", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["肺动脉瓣", "交界", "切开术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3"], "doc_token": ["膝内", "翻切", "骨术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["脾", "碎块", "腹腔", "内", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["死骨", "摘除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻中膈", "穿孔", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["鼻梁", "穿孔", "性", "缺损"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肺动脉", "内", "通道", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["咽部", "血管瘤", "硬化剂", "注射", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["瘢痕", "性唇", "外", "翻修", "复术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["翼管", "神经", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["简易", "定向", "锥", "颅脑", "内", "血肿", "碎", "吸术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["上", "斜", "肌", "前部", "前徙", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "6", "15", "3", "0"], "doc_token": ["唇裂", "修复", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["腕关节", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["胆囊", "造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["胸部手术", "切口", "之", "腋下", "切口"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "1", "3"], "doc_token": ["跟腱", "延长", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "3", "0"], "doc_token": ["剖宫取", "胎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["胸膜", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肛门", "括约肌", "失禁", "整形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["子宫", "翻", "出", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["咽部", "异物", "取出", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["荐骨", "与", "尾骨", "肿瘤", "切除"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["额骨", "骨瓣", "成形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "0", "11"], "doc_token": ["新喉", "再造术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "0"], "doc_token": ["泪道", "探通", "与", "扩张"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["胃次", "全", "切除", "结肠", "前", "半口", "水平", "位胃", "空肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["心脏", "瓣膜", "扩张", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["心脏", "摘取"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["巩膜", "环扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["7", "8", "0"], "doc_token": ["桥状", "穿透性", "角膜", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["直肌", "移位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["甲状腺", "腺瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["吻合", "血管", "冲洗", "法"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["鼻", "钮扣", "放置", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["直肠", "脱出", "根治", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "14", "15", "12"], "doc_token": ["Senning", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["内痔", "环切术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["肾", "输尿管", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "3"], "doc_token": ["空肠", "造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["指深屈", "肌腱", "止点", "重建术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["疝", "囊", "成形", "高位", "结扎"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["0"], "doc_token": ["上", "斜", "肌", "折叠", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["喉咽", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["8", "5", "0"], "doc_token": ["陈旧性", "泪小管", "断裂", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["开放性", "脊柱", "脊髓", "损伤", "清创术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["3"], "doc_token": ["经", "阴道", "全", "子宫", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["结肠", "直肠", "切除", "肛门", "外", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["滑膜", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["右肝叶", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3"], "doc_token": ["后", "盆腔", "器", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["小梁", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "3", "0"], "doc_token": ["胃", "空肠", "吻合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["总", "胆管", "全", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["大", "网膜", "颅内", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["支气管", "胸膜", "瘘", "修补术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["端端", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["精索", "静脉", "结扎术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["产钳", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["6", "15", "3"], "doc_token": ["左半肝", "切除术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["末节", "指骨", "基底", "掌侧", "骨折", "切开", "复位", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["球后", "填充", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["牙槽骨", "整形术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["经", "口腔", "结核病", "灶", "清除", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["椎板", "融合术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["皮肤", "移植术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "15", "3", "0"], "doc_token": ["手部", "肌腱", "手术", "切口", "设计"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["倒睫", "电解", "冷冻", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["泪囊", "鼻腔", "造", "瘘术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15", "0"], "doc_token": ["脑血管", "畸形", "手术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["负", "人工", "晶状", "前", "房", "植入术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["10"], "doc_token": ["下腔", "静脉", "阻断"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["5", "0"], "doc_token": ["口底", "蜂窝", "织炎", "切开", "引流术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["肌腱", "缝合", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["1", "6", "15", "3"], "doc_token": ["指总伸", "肌腱", "缝合", "术", "III", "区"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["15"], "doc_token": ["胸膜", "剥脱", "术"], "doc_keyword": [], "doc_topic": []}
+{"doc_label": ["2", "15"], "doc_token": ["右侧", "全肺", "切除术"], "doc_keyword": [], "doc_topic": []}

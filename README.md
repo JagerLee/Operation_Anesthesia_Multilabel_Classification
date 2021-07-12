@@ -1,7 +1,7 @@
 # 原始数据
-```
+
 data/data.xlsx
-```
+
 ![原始数据](readme/data.png)
 
 项目任务：将手术名称分类归为多个麻醉方式标签
@@ -12,9 +12,7 @@ python preprocess.py data/data.xlsx
 ```
 模型输入为:
 
-训练集
-
-data/train_set.json
+训练集 data/train_set.json
 ```
 {"doc_label": ["6", "15", "3"], "doc_token": ["肝外", "胆管", "损伤", "及", "狭窄", "修复", "术"], "doc_keyword": [], "doc_topic": []}
 {"doc_label": ["10"], "doc_token": ["侧", "鼻", "切开", "肿瘤", "摘除术"], "doc_keyword": [], "doc_topic": []}
@@ -28,19 +26,14 @@ data/train_set.json
 {"doc_label": ["2", "14", "15", "12"], "doc_token": ["升", "主动脉", "冠状动脉", "大隐", "静脉", "旁路", "移植术"], "doc_keyword": [], "doc_topic": []}
 ...
 ```
-验证集
-```
-data/validate_set.json
-```
-测试集
-```
-data/test.json
-```
+验证集 data/validate_set.json
+
+测试集 data/test.json
 
 # 参数设置
-```
+
 conf/train.json
-```
+
 ```
 ...
 "label_type": "multi_label",

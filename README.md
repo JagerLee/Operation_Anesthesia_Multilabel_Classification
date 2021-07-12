@@ -30,6 +30,11 @@ python preprocess.py data/data.xlsx
 
 测试集 data/test.json
 
+麻醉类别编码 data/label_dict.json
+```
+{"局部麻醉": "0", "椎管内麻醉": "1", "吸入麻醉": "2", "区域麻醉": "3", "肌肉注射": "4", "局部浸润麻醉": "5", "神经及神经丛阻滞": "6", "基础麻醉": "7", "表面麻醉": "8", "区域阻滞麻醉": "9", "暂无相关信息": "10", "针刺镇痛与麻醉": "11", "复合麻醉": "12", "静脉局部麻醉": "13", "静脉麻醉": "14", "全身麻醉": "15"}
+```
+
 # 参数设置
 
 conf/train.json
@@ -58,10 +63,17 @@ Best test performance at epoch 10 is precision: 0.565574, recall: 0.295503, fsco
 data/predict.json
 ```
 {"doc_label": ["11", "12", "3", "9", "14"], "doc_token": ["肋骨", "肿瘤", "切除术"], "doc_keyword": [], "doc_topic": []}
+...
 ```
 ```
 python predict.py conf/train.json data/predict.json
 ```
+预测结果输出为predict.txt
+```
+区域麻醉;局部麻醉;椎管内麻醉;全身麻醉
+...
+```
+
 
 ![NeuralClassifier Logo](readme/logo.png)
 

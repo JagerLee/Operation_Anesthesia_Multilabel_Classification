@@ -83,7 +83,7 @@ if __name__ == '__main__':
     validate_path = 'data/validate_set.json'
     test_path = 'data/test_set.json'
 
-    df = pd.read_excel(data_path, header=0, usecols=[0, 4], encodding='utf-8')
+    df = pd.read_excel(data_path, header=0, usecols=[0, 4], encoding='utf-8')
     df.columns = ['doc_token', 'doc_label']
     stop_words_list = stop_words('data/stopwords.txt')
     label_dict = get_label(df, taxonomy_path, dict_path)

@@ -1,10 +1,33 @@
 # 原始数据
 ```
 data/data.xlsx
-
-
 ```
+![原始数据](readme/data.png)
 
+项目任务：将手术名称分类归为多个标签
+
+# 数据处理
+```
+python preprocess.py data/data.xlsx
+```
+# 参数设置
+```
+conf/train.json
+
+...
+"label_type": "multi_label",
+...
+"model_name": "TextCNN",
+...
+"batch_size": 64,
+"start_epoch": 1,
+"num_epochs": 10,
+...
+```
+# 模型训练
+```
+python train.py conf/train.json
+```
 
 ![NeuralClassifier Logo](readme/logo.png)
 
